@@ -20,7 +20,6 @@
 
     "modules-right": [
         "custom/pacman",
-        "custom/weather",
         "pulseaudio",
         "battery",
         "network"
